@@ -1,4 +1,4 @@
-# AI Agent For WooCommerce &middot; [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/open-kbs/ai-agent-for-woocommerce/blob/main/LICENSE)
+# AI Agent For WordPress &middot; [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/open-kbs/ai-agent-for-woocommerce/blob/main/LICENSE)
 <table>
   <tr>
     <td>
