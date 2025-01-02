@@ -1,0 +1,18 @@
+{
+  "userId": "public",
+  "appId": "wordpress001",
+  "chatVendor": "bedrock",
+  "kbDescription": "AI agent designed to automate Wordpress tasks.",
+  "kbTitle": "WP Agent",
+  "model": "us.anthropic.claude-3-5-sonnet-20241022-v2:0",
+  "inputTools": [
+    "speechToText"
+  ],
+  "embeddingModel": "text-embedding-3-large",
+  "embeddingDimension": 1536,
+  "searchEngine": "IndexedDB",
+  "itemTypes": {},
+  "slug": "ai-agent-for-woocommerce",
+  "active": true,
+  "category": "wordpress"
+}
