@@ -2,7 +2,7 @@
   "userId": "public",
   "appId": "wordpress001",
   "chatVendor": "bedrock",
-  "kbDescription": "AI agent designed to automate Wordpress tasks.",
+  "kbDescription": "AI agent designed to automate Wordpress admin tasks.",
   "kbTitle": "WP Agent",
   "model": "us.anthropic.claude-3-5-sonnet-20241022-v2:0",
   "inputTools": [
