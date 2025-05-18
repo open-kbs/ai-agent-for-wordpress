@@ -1,7 +1,7 @@
 {
   "userId": "public",
   "appId": "wordpress001",
-  "chatVendor": "bedrock",
+  "chatVendor": "anthropic",
   "kbDescription": "AI agent designed to automate Wordpress admin tasks.",
   "kbTitle": "WP Agent",
   "model": "claude-3-7-sonnet-20250219",
